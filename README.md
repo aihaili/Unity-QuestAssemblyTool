@@ -116,4 +116,6 @@ Assets/Scripts/QuestAssembly/
 
 ## 👨‍💻 作者
 
+**乂.海狸**
+
 Reasonix 生成 · 适合独立开发和小团队的轻量任务工具
